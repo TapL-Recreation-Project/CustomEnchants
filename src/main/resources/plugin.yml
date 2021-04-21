@@ -1,0 +1,5 @@
+name: CustomEnchants
+version: ${project.version}
+main: me.swipez.customenchants.CustomEnchants
+api-version: 1.16
+authors: [ notnotnotswipez ]
